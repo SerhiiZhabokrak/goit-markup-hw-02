@@ -91,7 +91,7 @@ ul {
     background: #f4f4fd;
 }
 
-.our-team-title {
+.section-title {
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
@@ -101,8 +101,8 @@ ul {
     text-transform: capitalize;
 }
 
-.team-member {
-    background-color: #ffffff
+.team-people {
+    background-color: #FFFFFF
 }
 
 .list-title {
